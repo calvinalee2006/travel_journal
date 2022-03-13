@@ -14,6 +14,9 @@ export default function Card(props) {
                 <div className="locationInfo">
                     <p>{props.info}  </p>
                 </div>
+                <div className="randomFacts">
+                    <p>{props.facts}</p>
+                </div>
             </div>
 
         </>
