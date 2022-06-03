@@ -23,21 +23,3 @@ export default function App() {
     )
 }
 
-{/* <Card
-img={Dubai}
-name="Dubai"
-date="2009 February 2010 - 2013 July"
-info=" This is Dubai!!!"
-/>,
-<Card
-img={England}
-name="England"
-date="August 2010 - December 2010"
-info=" This is ENGLAND!!!"
-/>,
-<Card
-img={Japan}
-name="Japan"
-date="Hope to visit in the future"
-info=" This is Japan!!!"
-/> */}
